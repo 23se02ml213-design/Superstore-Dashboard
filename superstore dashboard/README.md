@@ -201,7 +201,8 @@ A button on this page lets the user move between the dashboard and the detailed 
 
 <div align="center">
 
-![Superstore Sales Dashboard]("C:\Users\hp\OneDrive\Desktop\superstore dashboard\Dashboard.png")
+![Superstore Sales Dashboard]("<img width="1307" height="737" alt="dashboard" src="https://github.com/user-attachments/assets/7f42c2ef-ee09-41cc-b509-d63c839e5ee0" />
+")
 
 *Superstore Sales Dashboard — KPI cards, slicers, and bar charts in Power BI Desktop*
 

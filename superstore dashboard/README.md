@@ -158,8 +158,6 @@ Load Sample - Superstore Data
 
 ### 🏠 Page 1 — `DashBoard`
 
-![DashBoard](<Screenshot 2026-10-29 151742.png>)
-
 #### 🔢 KPI Cards
 
 | Card | Value | Meaning |
@@ -203,7 +201,7 @@ A button on this page lets the user move between the dashboard and the detailed 
 
 <div align="center">
 
-![Superstore Sales Dashboard](images/dashboard.png)
+![Superstore Sales Dashboard]("C:\Users\hp\OneDrive\Desktop\superstore dashboard\Dashboard.png")
 
 *Superstore Sales Dashboard — KPI cards, slicers, and bar charts in Power BI Desktop*
 
